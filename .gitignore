@@ -178,3 +178,9 @@ sphinx_*/
 
 # Rust analyzer configuration
 /rust-project.json
+
+# vim swap files
+*.swp
+*.swo
+*.un
+*.un~
